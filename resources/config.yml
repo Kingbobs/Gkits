@@ -1,0 +1,206 @@
+#config for GKITS
+#config for GKITS
+#by valentine#0001
+
+CommandName: "gkits"
+
+
+###### BUTCHER GKIT###
+ButcherGkitName: "yup"
+ButcherGlint: "true"
+ButcherSwordName: "yo mom"
+ButcherItem: "54"
+ButcherItemName: "ily"
+
+###sword Enchants###
+
+#vanilla enchants#
+#- sharpness
+#- unbreaking
+#- protection
+#- unbreaking
+#Custom Enchants#
+#- blind
+#- poison
+#- wither
+#- shatterglass
+#- cripple
+#- bloodlost
+#- influx
+#- reforge
+#- rage
+#- vampire
+#- spitswebs
+#- silence
+#- razoredged
+#- lightning
+#- lifesteal
+#- insanity
+#- deathbringer
+
+Enchant1: "sharpness"
+Enchant1Level: "3"
+Enchant2: "unbreaking"
+Enchant2Level: "3"
+CE1: "poison"
+CE1Level: "2"
+CE2: "wither"
+CE2Level: "1"
+CE3: "blessed"
+CE3Level: "1"
+CE4: "silence"
+CE4Level: 3
+CE5: "lightning"
+CE5Level: "2"
+CE6: "insanity"
+CE6Level: "1"
+CE7: "spitsweb"
+CE7Level: "2"
+
+
+###Armour###
+#CES
+#-antiknockback
+#-armored
+#-berserker
+#-cactus
+#-cloaking
+#-deflect
+#-dodge
+#-endershift
+#-enlighted
+#-forcefield
+#-gears
+#-grow
+#-healingfactor
+#-heavy
+#-molten
+#-Overload
+#-painkiller
+#-poisonouscloud
+#-revive
+#-selfdestruct
+#-shielded
+#-shrink
+#-tank
+#-voodoo
+#-aegis
+#-enraged
+#-knight
+#-vitamins
+#-glowing
+#-obsidianshield
+#-antitoxin
+#-autorepair
+#-clarity
+#-focused
+#-heavy
+#-implants
+#-imfastafboi
+#-nourish
+#-meditation
+#-soulbound
+#-
+
+
+
+#HELMET
+
+
+#PLEASE MAKE SURE THE CES ARE COMPATIABLE OR A ERROR WILL HAPPEN
+ButcherHelmetName: "jaja"
+HelmetEnchant1: "protection"
+HelmetEnchant1Level: "3"
+HelmetEnchant2: "unbreaking"
+HelmetEnchant2Level: "3"
+HelmetCE1: "overload"
+HelmetCE1Level: "4"
+HelmetCE2: "nourish"
+HelmetCE2Level: "1"
+HelmetCE3: "clarity"
+HelmetCE3Level: "1"
+HelmetCE4: "glowing"
+HelmetCE4Level: "1"
+HelmetCE5: "tank"
+HelmetCE5Level: "2"
+HelmetCE6: "focused"
+HelmetCE6Level: "1"
+HelmetCE7: "heavy"
+HelmetCE7Level: "2"
+
+
+
+
+
+
+##CHESTPLATE###
+#PLEASE MAKE SURE THE CES ARE COMPATIABLE OR A ERROR WILL HAPPEN
+ButcherChestPlateName: "jaja"
+ChestPlateEnchant1: "protection"
+ChestPlateEnchant1Level: "3"
+ChestPlateEnchant2: "unbreaking"
+ChestPlateEnchant2Level: "3"
+ChestPlateCE1: "overload"
+ChestPlateCE1Level: "4"
+ChestPlateCE2: "aegis"
+ChestPlateCE2Level: "1"
+ChestPlateCE3: "knight"
+ChestPlateCE3Level: "1"
+ChestPlateCE4: "deflect"
+ChestPlateCE4Level: "1"
+ChestPlateCE5: "tank"
+ChestPlateCE5Level: "2"
+ChestPlateCE6: "frozen"
+ChestPlateCE6Level: "1"
+ChestPlateCE7: "heavy"
+ChestPlateCE7Level: "2"
+
+
+
+##LEGGINGS##
+#PLEASE MAKE SURE THE CES ARE COMPATIABLE OR A ERROR WILL HAPPEN
+ButcherLeggingsName: "heyy"
+LeggingsEnchant1: "protection"
+LeggingsEnchant1Level: "3"
+LeggingsEnchant2: "unbreaking"
+LeggingsEnchant2Level: "3"
+LeggingsCE1: "overload"
+LeggingsCE1Level: "4"
+LeggingsCE2: "aegis"
+LeggingsCE2Level: "1"
+LeggingsCE3: "knight"
+LeggingsCE3Level: "1"
+LeggingsCE4: "deflect"
+LeggingsCE4Level: "1"
+LeggingsCE5: "tank"
+LeggingsCE5Level: "2"
+LeggingsCE6: "frozen"
+LeggingsCE6Level: "1"
+LeggingsCE7: "heavy"
+LeggingsCE7Level: "2"
+
+
+
+##BOOTS##
+#PLEASE MAKE SURE THE CES ARE COMPATIABLE OR A ERROR WILL HAPPEN
+ButcherBootsName: "haaah"
+BootsEnchant1: "protection"
+BootsEnchant1Level: "3"
+BootsEnchant2: "unbreaking"
+BootsEnchant2Level: "3"
+BootsCE1: "overload"
+BootsCE1Level: "4"
+BootsCE2: "aegis"
+BootsCE2Level: "1"
+BootsCE3: "knight"
+BootsCE3Level: "1"
+BootsCE4: "deflect"
+BootsCE4Level: "1"
+BootsCE5: "tank"
+BootsCE5Level: "2"
+BootsCE6: "frozen"
+BootsCE6Level: "1"
+BootsCE7: "heavy"
+BootsCE7Level: "2"
+
+

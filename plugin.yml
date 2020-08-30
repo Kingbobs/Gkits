@@ -1,0 +1,5 @@
+  name: Gkits
+  main: vale\Gkits
+  api: 3.0.0
+  version: 1.0.0
+  description: "Gkit plugin created by vale"
